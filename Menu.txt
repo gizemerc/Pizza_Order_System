@@ -1,0 +1,14 @@
+PIZZA BASES:
+*   Classic
+*   Margherita
+*   TurkPizza
+*   PlainPizza
+
+PIZZA SAUCES:
+*   Olives
+*   Mushrooms
+*   GoatCheese
+*   Meat
+*   Onions
+*   Corn
+
